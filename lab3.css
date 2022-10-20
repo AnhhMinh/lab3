@@ -1,0 +1,45 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li{
+    display: inline;
+    margin-right: 10px;
+  }
+.table1 table  , .table2 table {
+    border-collapse: collapse;
+    border-style: double;
+    margin-bottom: 20px;
+  }
+.table1 table    th{
+    border: 1px solid;
+  }
+.table2 table tr{
+    border: 1px solid;
+}
+.table2 table th{
+    padding-right: 10px;
+}
+.table3{
+    margin-top: 10px;
+}
+.table3 table,th,td{
+    border: 1px solid ;
+    border-collapse: collapse;
+}
+.style{
+    display: inline-flex;
+}
+.table1{
+    padding-right: 10px;
+}
+.table2{
+    width: 870px;
+}
+.c1{
+    padding-left: 170px;
+}
+body{
+    text-align: center;
+}
